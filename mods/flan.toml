@@ -1,0 +1,13 @@
+name = "Flan"
+filename = "flan-1.18.2-1.7.5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3696/436/flan-1.18.2-1.7.5-fabric.jar"
+hash-format = "sha1"
+hash = "f73ddb3c05c5f50db753dd1a0235ef47d9efb77b"
+
+[update]
+[update.curseforge]
+file-id = 3696436
+project-id = 404578

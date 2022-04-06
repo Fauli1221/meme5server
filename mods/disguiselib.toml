@@ -1,0 +1,13 @@
+name = "DisguiseLib"
+filename = "disguiselib-1.2.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3710/441/disguiselib-1.2.2-fabric.jar"
+hash-format = "sha1"
+hash = "a3417ceab49e6aa4b4cb8b8aade5c7630e934742"
+
+[update]
+[update.curseforge]
+file-id = 3710441
+project-id = 449885

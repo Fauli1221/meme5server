@@ -1,0 +1,151 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "cde374866663873f43b376a673fa6095b5f74a8b87215432f6628ee08d405f5f"
+metafile = true
+
+[[files]]
+file = "mods/big-pony.toml"
+hash = "7e8a8c67ca6ee75aa2d767b606dd7e6f528c5b46b26a3f4e0934f2846050371f"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.toml"
+hash = "c04fcfb1e9834e61ce7fd5c47c1d0ae5660bd0a3a60be62913f4cd0d6c9586f6"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.toml"
+hash = "e72273cbc32fb9fb946ec244e707a315ae91a7b816ac47444e5bd1cc664d29fa"
+metafile = true
+
+[[files]]
+file = "mods/carpet.toml"
+hash = "4f1ff263ced03be352e3336345ff76aa9aeec76afc7b13f4603dd229d779b3d1"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator.toml"
+hash = "b759c470db5417dc9af74b2350f5f8ad68b1a8b7d6ce1a455fe56069472b8e71"
+metafile = true
+
+[[files]]
+file = "mods/debugify.toml"
+hash = "9efdf78cb4a19e4b520353261978b99cc9df04ee26d307a77f328f7c3059a9c2"
+metafile = true
+
+[[files]]
+file = "mods/disguiselib.toml"
+hash = "281817c277a6b6bb70315d3a166660babf5bb9c7f7c4f2f29db5e9ed0ee3825a"
+metafile = true
+
+[[files]]
+file = "mods/edit-sign.toml"
+hash = "4fb054f9c9a3f5872daed547fa55d3d10d303aa7d52304c6871f4b457be9e9e1"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.toml"
+hash = "7eba13f0553ecefe5c9f7b7c56eb0acef8b559daa63579212c6293f86c57dc88"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "2c283319aebf853500c3057142e54ce91ae50170a161de46489a266f57f46f63"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.toml"
+hash = "d2796ea9aaa67e2dd251c04db4bdff221d4f0a4909798a4f71496b1b10932818"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "7d40bcc67b4a6c0e1e6e0d0d586ac506834c8df3e906e3a029c39836d5ef2821"
+metafile = true
+
+[[files]]
+file = "mods/fireplace-lib.toml"
+hash = "71b671f95d9ff67ad34e2be9450a8ad5a4c4c90cda65557dd5e2ae1c26f18d2f"
+metafile = true
+
+[[files]]
+file = "mods/flan.toml"
+hash = "7e0948eee77284b142970fe8d0cdbb2147a1953c1d7928e2803eec1278d03b4b"
+metafile = true
+
+[[files]]
+file = "mods/golfiv.toml"
+hash = "403ded84ce8053b948f4c936fc2429136c61973dd9fe30c5084e875b5b694810"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/ledger.toml"
+hash = "4f161155343d7d8ea0e5111b2fa601e2ece1501b932685a53487999524683100"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+metafile = true
+
+[[files]]
+file = "mods/mambience.toml"
+hash = "8b3845c8745d70aa864d4d65840641f87b9f2b723b14db8e143bd07d25168cbe"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.toml"
+hash = "2ed09c99ce518bb51f6bc954d8300f2496db356a0376b287bf2fc85eaf5bbb38"
+metafile = true
+
+[[files]]
+file = "mods/right-click-harvest.toml"
+hash = "76790dadcda0b1802e3d49b1cdde75c756fba55b54c16a0806a855d1240fd4db"
+metafile = true
+
+[[files]]
+file = "mods/servercore.toml"
+hash = "ae2d162f6843c1c3711af07bc696db5674f30966ebd0fa95911de50ec7ad9e85"
+metafile = true
+
+[[files]]
+file = "mods/spark.toml"
+hash = "157fc7b6721eb740dd5f214f8ca5669af8cff2135f58839ad326ef3f15b1c7be"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.toml"
+hash = "91fb8cdc148a085a811ccf1857e5dc1a6c30e0d2110b3cda50ac8ae682ea85e0"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.toml"
+hash = "8c86d2e1c74be20993cdb4d82a46a16442231e30f0d9fb6a9b1e92f94628aeec"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.toml"
+hash = "e26b82bdb9bf431309361c50d5b515bb59c77202dfca04d5b0ca11098ab3c881"
+metafile = true

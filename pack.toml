@@ -1,0 +1,13 @@
+name = "Meme 5 Server"
+author = "Fauli1221"
+version = "0.1.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9eb9361f6a0bdef2daf669dd9b8406c13c472e1cf0f4ec36ca53d23d751c50a7"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.2"

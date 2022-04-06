@@ -126,6 +126,11 @@ hash = "ae2d162f6843c1c3711af07bc696db5674f30966ebd0fa95911de50ec7ad9e85"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "5f7b50a6b2ffab4a2f56b9ec352bb16f62951c32624443174daa1b058acbeb45"
+metafile = true
+
+[[files]]
 file = "mods/spark.toml"
 hash = "157fc7b6721eb740dd5f214f8ca5669af8cff2135f58839ad326ef3f15b1c7be"
 metafile = true

@@ -36,11 +36,6 @@ hash = "9efdf78cb4a19e4b520353261978b99cc9df04ee26d307a77f328f7c3059a9c2"
 metafile = true
 
 [[files]]
-file = "mods/disguiselib.toml"
-hash = "281817c277a6b6bb70315d3a166660babf5bb9c7f7c4f2f29db5e9ed0ee3825a"
-metafile = true
-
-[[files]]
 file = "mods/edit-sign.toml"
 hash = "4fb054f9c9a3f5872daed547fa55d3d10d303aa7d52304c6871f4b457be9e9e1"
 metafile = true
@@ -62,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.toml"
-hash = "d2796ea9aaa67e2dd251c04db4bdff221d4f0a4909798a4f71496b1b10932818"
+hash = "8ff5c8783cc8c4605185bf28fe89b7d70decc4be50200007294a7de052326f75"
 metafile = true
 
 [[files]]
@@ -77,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/flan.toml"
-hash = "7e0948eee77284b142970fe8d0cdbb2147a1953c1d7928e2803eec1278d03b4b"
+hash = "cac0410cee73338b0256ecef2447aec184a8e78270594800182fa1d07c7858ed"
 metafile = true
 
 [[files]]

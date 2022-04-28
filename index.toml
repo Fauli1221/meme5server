@@ -47,12 +47,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "fd6b05c2a3731c93d5dccf2c073135f2f12008f7a77325b49b79522a98fa52c3"
+hash = "99fb566fe03abc87d64b6b541cbe225fa856d15c1ef7a6d4de85e6b6fb0c14e8"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "01175385fc41a95afdfe7c988c697be564bd94aabb684b764b411c700bee81dc"
+hash = "d2fbaf45c8aed07525a3d592a02242db2c2a9a76cf6c995585835282e87d24f5"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "7d40bcc67b4a6c0e1e6e0d0d586ac506834c8df3e906e3a029c39836d5ef2821"
+hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "2ed09c99ce518bb51f6bc954d8300f2496db356a0376b287bf2fc85eaf5bbb38"
+hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
 metafile = true
 
 [[files]]
@@ -117,17 +117,17 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.toml"
-hash = "ae2d162f6843c1c3711af07bc696db5674f30966ebd0fa95911de50ec7ad9e85"
+hash = "c04e7a759cc12522f665a33cadf0fd8f182d1918ea17b7e818fee7575fca9cef"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "c1d7db22a4e99e807defece74440d2e554545a9ccdcb260a1d751451b2a2ea20"
+hash = "6bdac4c32578b063cf0d109243802a70b513ac33918e1643d66d54ecf3c9c86d"
 metafile = true
 
 [[files]]
 file = "mods/spark.toml"
-hash = "157fc7b6721eb740dd5f214f8ca5669af8cff2135f58839ad326ef3f15b1c7be"
+hash = "f3788c11d6e2da088378f7b2fa47dbf01da87bc13a34bf0dbafac24fbdbc6acb"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.toml"
-hash = "91fb8cdc148a085a811ccf1857e5dc1a6c30e0d2110b3cda50ac8ae682ea85e0"
+hash = "66826e1b1c4cec09203516fefe7d9ada6cfbe56107c6e8d50b16564dca80c705"
 metafile = true
 
 [[files]]

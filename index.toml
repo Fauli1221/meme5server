@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "5dbb4d2a2f4d20ecaddd7ea8b31c48e7e9c8694ac4b8d1ffe0e92a76c0718c67"
+hash = "347c276b5b842d1d345221949a70a72e1e774d17139525814b2bf301264afc0e"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "99fb566fe03abc87d64b6b541cbe225fa856d15c1ef7a6d4de85e6b6fb0c14e8"
+hash = "6f804c2910c7eee1bb396ca2f201494ad4c26cafa1fa052f11411a9b9fc86329"
 metafile = true
 
 [[files]]
@@ -72,12 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/flan.toml"
-hash = "cac0410cee73338b0256ecef2447aec184a8e78270594800182fa1d07c7858ed"
+hash = "af33aaa894a448db195dcdbce85c8b35b4d5daab89a7f2f5195f9d4a2e21b479"
 metafile = true
 
 [[files]]
 file = "mods/golfiv.toml"
-hash = "403ded84ce8053b948f4c936fc2429136c61973dd9fe30c5084e875b5b694810"
+hash = "f28aa139bb0c5996f0ab3e8ff2575b7979986c33f3656d7f65ce1acc185cba43"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "676194d6e58c6d8b37272ddbbfff1c0336cd7c379509569e9e60e39111b61cdf"
+hash = "9346d09f897be45df79ad6af92e38f34f650ca557e65bc199f629021bbcff915"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.toml"
-hash = "66826e1b1c4cec09203516fefe7d9ada6cfbe56107c6e8d50b16564dca80c705"
+hash = "054b5c330c876857f19039ffb629225932242cd985104e114143bddc8d4c2028"
 metafile = true
 
 [[files]]

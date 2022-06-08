@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.toml"
-hash = "cde374866663873f43b376a673fa6095b5f74a8b87215432f6628ee08d405f5f"
+hash = "f1012d69ed26a4b8b576106f556a1cf3cbded61a3580118792d4ebe9f9264892"
 metafile = true
 
 [[files]]
@@ -12,22 +12,22 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.toml"
-hash = "c04fcfb1e9834e61ce7fd5c47c1d0ae5660bd0a3a60be62913f4cd0d6c9586f6"
+hash = "500af7f8ecad05d336e8ff569595893143f25d8062c1668535556f2227783c32"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.toml"
-hash = "e72273cbc32fb9fb946ec244e707a315ae91a7b816ac47444e5bd1cc664d29fa"
+hash = "0421f45eec7781bada15ab8e0aa9ef102f4252a7aab4bfa63d512e0b2ae23a15"
 metafile = true
 
 [[files]]
 file = "mods/carpet.toml"
-hash = "4f1ff263ced03be352e3336345ff76aa9aeec76afc7b13f4603dd229d779b3d1"
+hash = "3eb404aa3e5431eb0d5c38c0996b97db033fed570efe4b0a852fa183c56858ce"
 metafile = true
 
 [[files]]
 file = "mods/chunky-pregenerator.toml"
-hash = "b759c470db5417dc9af74b2350f5f8ad68b1a8b7d6ce1a455fe56069472b8e71"
+hash = "b8526de4eeb2aee74ef290ffbcbeb1b68ce69a736021e1f0cfb62304589a8e84"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/edit-sign.toml"
-hash = "4fb054f9c9a3f5872daed547fa55d3d10d303aa7d52304c6871f4b457be9e9e1"
+hash = "d35e25d461eecec4a57dc5880002c96598fb57c920a96f6946ee5b5951af345b"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "6f804c2910c7eee1bb396ca2f201494ad4c26cafa1fa052f11411a9b9fc86329"
+hash = "23c82cc89e5e080d3ea3a56052708782ee511091c387ef09ff5870d0dcd98827"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.toml"
-hash = "f4e2a688b20447f37e6cfca27bbf764f3448021a7c93fd54e33fb151bc6fb0db"
+hash = "617bccc640b20657d961656122c61d1902c8a5305c3b963555c9668b8239f680"
 metafile = true
 
 [[files]]
@@ -82,17 +82,17 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
 metafile = true
 
 [[files]]
 file = "mods/lazydfu.toml"
-hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
 file = "mods/ledger.toml"
-hash = "4f161155343d7d8ea0e5111b2fa601e2ece1501b932685a53487999524683100"
+hash = "cbd6b97dfc49090b18480f43eeef4401144006ed406110f32fb1126d47a21f11"
 metafile = true
 
 [[files]]
@@ -102,7 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/mambience.toml"
-hash = "8b3845c8745d70aa864d4d65840641f87b9f2b723b14db8e143bd07d25168cbe"
+hash = "655919b6f75cc94b66beb2054d8b1b1fc9a214566c85f6f2b694ddd79abfdba9"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "a9b4b216f354c79e9d2e08e4c792dcc9cfd34233a6b018fda90763f054b8a687"
 metafile = true
 
 [[files]]
@@ -117,12 +122,12 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.toml"
-hash = "c04e7a759cc12522f665a33cadf0fd8f182d1918ea17b7e818fee7575fca9cef"
+hash = "8e81543992fe3ce4dab725e2f32f877e0f28eb7c806c178958f5c472f59f1dd8"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "9346d09f897be45df79ad6af92e38f34f650ca557e65bc199f629021bbcff915"
+hash = "96d722409350fa2998bcbaf71840f90df974a9ab29b1909db45867ccc827fef1"
 metafile = true
 
 [[files]]
@@ -132,17 +137,17 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
+hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
 metafile = true
 
 [[files]]
 file = "mods/viafabric.toml"
-hash = "054b5c330c876857f19039ffb629225932242cd985104e114143bddc8d4c2028"
+hash = "95ed3eab20b63dabde923cf0fcdef4f782ec4ce821ef4e84fd7b16252ed3dfe9"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.toml"
-hash = "8c86d2e1c74be20993cdb4d82a46a16442231e30f0d9fb6a9b1e92f94628aeec"
+hash = "03631550219841e93a60998c0008733713d7022f4d8b812c5448675a7a72deb8"
 metafile = true
 
 [[files]]

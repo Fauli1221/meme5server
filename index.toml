@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/edit-sign.toml"
-hash = "d35e25d461eecec4a57dc5880002c96598fb57c920a96f6946ee5b5951af345b"
+hash = "28260bf593ae9a685769d4691972105c0d14066aa61e0f10a4994b1eb47d2988"
 metafile = true
 
 [[files]]
@@ -52,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "d2fbaf45c8aed07525a3d592a02242db2c2a9a76cf6c995585835282e87d24f5"
+hash = "cd7812412623eb47d8f612f3b276b4d86db3794496cc2a053fc709b19072afc3"
 metafile = true
 
 [[files]]
 file = "mods/fallingtree.toml"
-hash = "617bccc640b20657d961656122c61d1902c8a5305c3b963555c9668b8239f680"
+hash = "3e84222a0d8020efe132dff80b2fc01ff9a1768dcc39f5e41a80bf7cf501a628"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
+hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
+hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.toml"
-hash = "f3788c11d6e2da088378f7b2fa47dbf01da87bc13a34bf0dbafac24fbdbc6acb"
+hash = "8b945456a04b8704c62565c9370b59205a0fd10478b7d6457f6b6e2733d80545"
 metafile = true
 
 [[files]]

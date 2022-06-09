@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.toml"
-hash = "0421f45eec7781bada15ab8e0aa9ef102f4252a7aab4bfa63d512e0b2ae23a15"
+hash = "af1eb4731779edc72e1e1cb1664dd74328e0edb1da05805a0a694b10c48d010b"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "347c276b5b842d1d345221949a70a72e1e774d17139525814b2bf301264afc0e"
+hash = "2e6483d2faf2f9cd4e618d192f0d1516a33a306f76fe3cd1311f691e4138f9c6"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.toml"
-hash = "03631550219841e93a60998c0008733713d7022f4d8b812c5448675a7a72deb8"
+hash = "f893289ad94b3601c5523b0b8d1e9c2da54ab232063b4e0b9bfd0067240ccc7a"
 metafile = true
 
 [[files]]

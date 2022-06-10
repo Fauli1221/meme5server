@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.toml"
-hash = "8d44eb03fa7ce89001b9cdf84c8d9173cabba7a2b529d6ad684997a91f3ffc8c"
+hash = "2d03fff91bd541691f9b407fd4d50e9a9f636c4cf7d7b71a421e25406eef7c4b"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "96d722409350fa2998bcbaf71840f90df974a9ab29b1909db45867ccc827fef1"
+hash = "60b86b7eb16a4e3e12dd866cc63194263ba7e7c8abd8dff7ae52a1ea52017f33"
 metafile = true
 
 [[files]]

@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/big-pony.toml"
-hash = "7e8a8c67ca6ee75aa2d767b606dd7e6f528c5b46b26a3f4e0934f2846050371f"
+hash = "5984256e04d57537e47be5cb6b6f7f57d02be1db0282d58c3365a765726b6b23"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.toml"
-hash = "95ed3eab20b63dabde923cf0fcdef4f782ec4ce821ef4e84fd7b16252ed3dfe9"
+hash = "1e6eb004bde319c0dc24dfbb12f46d51a0abb1b67258353785e171737d2cda58"
 metafile = true
 
 [[files]]

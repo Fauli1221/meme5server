@@ -136,8 +136,8 @@ hash = "60b86b7eb16a4e3e12dd866cc63194263ba7e7c8abd8dff7ae52a1ea52017f33"
 metafile = true
 
 [[files]]
-file = "mods/spark.toml"
-hash = "8b945456a04b8704c62565c9370b59205a0fd10478b7d6457f6b6e2733d80545"
+file = "mods/spark.pw.toml"
+hash = "a6ad543780b4417ddeae78cb1ca9a337fab55262bc97c0f320d596dfd58fe080"
 metafile = true
 
 [[files]]

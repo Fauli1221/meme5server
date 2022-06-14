@@ -61,11 +61,6 @@ hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
 
 [[files]]
-file = "mods/fireplace-lib.toml"
-hash = "71b671f95d9ff67ad34e2be9450a8ad5a4c4c90cda65557dd5e2ae1c26f18d2f"
-metafile = true
-
-[[files]]
 file = "mods/golfiv.toml"
 hash = "f989ddbc02b14382ece3a01bc9b97dcfc8062ef6bafb6c92344fe71f3a58e2e4"
 metafile = true

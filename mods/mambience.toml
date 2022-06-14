@@ -1,13 +1,13 @@
 name = "MAmbience"
-filename = "Mambience-5.0.0+1.18.2.jar"
+filename = "Mambience-5.2.0+1.19.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3667/763/Mambience-5.0.0+1.18.2.jar"
 hash-format = "sha1"
-hash = "6bef5bc4177bcb927e2b431dd4b10a405ba1d6e9"
+hash = "00419dff011b58eacca16b54d6d3b1efec917aaa"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3667763
+file-id = 3821380
 project-id = 317590

@@ -71,13 +71,13 @@ hash = "71b671f95d9ff67ad34e2be9450a8ad5a4c4c90cda65557dd5e2ae1c26f18d2f"
 metafile = true
 
 [[files]]
-file = "mods/flan.toml"
-hash = "af33aaa894a448db195dcdbce85c8b35b4d5daab89a7f2f5195f9d4a2e21b479"
+file = "mods/golfiv.toml"
+hash = "f989ddbc02b14382ece3a01bc9b97dcfc8062ef6bafb6c92344fe71f3a58e2e4"
 metafile = true
 
 [[files]]
-file = "mods/golfiv.toml"
-hash = "f989ddbc02b14382ece3a01bc9b97dcfc8062ef6bafb6c92344fe71f3a58e2e4"
+file = "mods/htm.pw.toml"
+hash = "561eee5ab7553061d4489cebb24b9c9f7249b716dbedc6c0e5428cc2f039b0a1"
 metafile = true
 
 [[files]]

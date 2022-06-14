@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "23c82cc89e5e080d3ea3a56052708782ee511091c387ef09ff5870d0dcd98827"
+hash = "358ffc2bfad0305580718cb6c57e501a372d087a6f27f0c37fa9001f461d0861"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/golfiv.toml"
-hash = "f28aa139bb0c5996f0ab3e8ff2575b7979986c33f3656d7f65ce1acc185cba43"
+hash = "f989ddbc02b14382ece3a01bc9b97dcfc8062ef6bafb6c92344fe71f3a58e2e4"
 metafile = true
 
 [[files]]
@@ -98,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.toml"
 hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
+metafile = true
+
+[[files]]
+file = "mods/luckyperms.pw.toml"
+hash = "d3eedd2824420fffea0edc68d5c83a9e3466b2f592f34adc447adbf08eaef4ea"
 metafile = true
 
 [[files]]

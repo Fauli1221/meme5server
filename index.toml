@@ -41,11 +41,6 @@ hash = "28260bf593ae9a685769d4691972105c0d14066aa61e0f10a4994b1eb47d2988"
 metafile = true
 
 [[files]]
-file = "mods/essential-commands.toml"
-hash = "2d03fff91bd541691f9b407fd4d50e9a9f636c4cf7d7b71a421e25406eef7c4b"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.toml"
 hash = "358ffc2bfad0305580718cb6c57e501a372d087a6f27f0c37fa9001f461d0861"
 metafile = true
@@ -153,9 +148,4 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.toml"
 hash = "f893289ad94b3601c5523b0b8d1e9c2da54ab232063b4e0b9bfd0067240ccc7a"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.toml"
-hash = "e26b82bdb9bf431309361c50d5b515bb59c77202dfca04d5b0ca11098ab3c881"
 metafile = true

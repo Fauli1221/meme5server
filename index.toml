@@ -76,11 +76,6 @@ hash = "561eee5ab7553061d4489cebb24b9c9f7249b716dbedc6c0e5428cc2f039b0a1"
 metafile = true
 
 [[files]]
-file = "mods/invview.pw.toml"
-hash = "7cfacba402f52a71096bda72ede806b9b6964c2c807019da76f4e27fa839c8a5"
-metafile = true
-
-[[files]]
 file = "mods/krypton.toml"
 hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
 metafile = true
@@ -141,16 +136,6 @@ hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
 metafile = true
 
 [[files]]
-file = "mods/viafabric.toml"
-hash = "1e6eb004bde319c0dc24dfbb12f46d51a0abb1b67258353785e171737d2cda58"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.toml"
 hash = "f893289ad94b3601c5523b0b8d1e9c2da54ab232063b4e0b9bfd0067240ccc7a"
-metafile = true
-
-[[files]]
-file = "mods/worldborderfix.pw.toml"
-hash = "252d0bfbd4564105d294ec747d735e81957f4a36bd44553f486cbba7ed6dd500"
 metafile = true

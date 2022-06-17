@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]

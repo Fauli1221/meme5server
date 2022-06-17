@@ -11,16 +11,6 @@ hash = "5984256e04d57537e47be5cb6b6f7f57d02be1db0282d58c3365a765726b6b23"
 metafile = true
 
 [[files]]
-file = "mods/bluemap.toml"
-hash = "500af7f8ecad05d336e8ff569595893143f25d8062c1668535556f2227783c32"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.toml"
-hash = "af1eb4731779edc72e1e1cb1664dd74328e0edb1da05805a0a694b10c48d010b"
-metafile = true
-
-[[files]]
 file = "mods/carpet.toml"
 hash = "3eb404aa3e5431eb0d5c38c0996b97db033fed570efe4b0a852fa183c56858ce"
 metafile = true
@@ -116,13 +106,18 @@ hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
 metafile = true
 
 [[files]]
+file = "mods/right-click-harvest.pw.toml"
+hash = "f130a8a58184826e701d8e66d035dd47211f8b273e376b968333bf5afe405ab9"
+metafile = true
+
+[[files]]
 file = "mods/servercore.toml"
 hash = "8e81543992fe3ce4dab725e2f32f877e0f28eb7c806c178958f5c472f59f1dd8"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "60b86b7eb16a4e3e12dd866cc63194263ba7e7c8abd8dff7ae52a1ea52017f33"
+hash = "0faa80a6003565e9eb0232d929adb79b4fc21a410548c43356486733dd418b03"
 metafile = true
 
 [[files]]

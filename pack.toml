@@ -8,7 +8,6 @@ file = "index.toml"
 hash-format = "sha256"
 hash = "6cfabcd9eb984f7e2850b9bed329a11a9468bd8c7ace8d51e52a96fd2944d6db"
 
-
 [versions]
 fabric = "0.14.7"
 minecraft = "1.19"

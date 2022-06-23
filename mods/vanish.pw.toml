@@ -1,0 +1,13 @@
+name = "Vanish"
+filename = "vanish-1.19-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dab25f5ee3eac83f8f8c715bffadc79c292038e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3832551
+project-id = 424123

@@ -11,18 +11,18 @@ hash = "5984256e04d57537e47be5cb6b6f7f57d02be1db0282d58c3365a765726b6b23"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "8710ff01be8545dc45b73520dd6c2ab771237be3be45ae36aa91a68a5b487524"
+metafile = true
+
+[[files]]
 file = "mods/carpet.toml"
 hash = "3eb404aa3e5431eb0d5c38c0996b97db033fed570efe4b0a852fa183c56858ce"
 metafile = true
 
 [[files]]
-file = "mods/chunky-pregenerator.toml"
-hash = "b8526de4eeb2aee74ef290ffbcbeb1b68ce69a736021e1f0cfb62304589a8e84"
-metafile = true
-
-[[files]]
 file = "mods/debugify.toml"
-hash = "d562db5edffe81d5698a1c8ee6a42c4d014865dad4daf19fd4331b99018a2537"
+hash = "004dbebb72fb7b4afaa12797a18c0871b78da1cc930ee0a9e65a485a99d6232b"
 metafile = true
 
 [[files]]
@@ -32,12 +32,12 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "1dc8a59d53adb09108779af110871c2a85510acc90fd4a3b45c76b872d82e406"
+hash = "c93fc289f64122f0bb94b3b0a9370233c94a7ed174e3ebda88ba0be237a85a93"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "358ffc2bfad0305580718cb6c57e501a372d087a6f27f0c37fa9001f461d0861"
+hash = "3a906e337c1299509b63c347c4383e224222d63be7acd4cc516f18945e62be3c"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.toml"
-hash = "3e84222a0d8020efe132dff80b2fc01ff9a1768dcc39f5e41a80bf7cf501a628"
+hash = "78ef14042d4ebed0673467381aacd84a0eeafe0ecd48484175e45469e66f1b25"
 metafile = true
 
 [[files]]
@@ -131,6 +131,6 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.toml"
-hash = "f893289ad94b3601c5523b0b8d1e9c2da54ab232063b4e0b9bfd0067240ccc7a"
+file = "mods/vanish.pw.toml"
+hash = "c4e7710386c8e9a7adaebaf9b72f8eb6083cbd33c25286e0de74f7160abdcf5a"
 metafile = true

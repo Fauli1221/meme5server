@@ -42,17 +42,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "3a906e337c1299509b63c347c4383e224222d63be7acd4cc516f18945e62be3c"
+hash = "960e11d87f09c00789095d237aaa1244fc45d9c1fdb0be3fc2093f877ae10ff2"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "cd7812412623eb47d8f612f3b276b4d86db3794496cc2a053fc709b19072afc3"
+hash = "31b8ee3e8f34273e2989381dde65b8b13e128b6fed0c244f46af62bb47ac354f"
 metafile = true
 
 [[files]]
 file = "mods/fallingtree.toml"
-hash = "78ef14042d4ebed0673467381aacd84a0eeafe0ecd48484175e45469e66f1b25"
+hash = "d01406c9e70d67e91b51f25fb37273a2489d17bf8c55f3569766a81cf4eab716"
 metafile = true
 
 [[files]]

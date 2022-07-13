@@ -149,3 +149,8 @@ metafile = true
 file = "mods/vanish.pw.toml"
 hash = "c4e7710386c8e9a7adaebaf9b72f8eb6083cbd33c25286e0de74f7160abdcf5a"
 metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "2c626dca74e026ddf2292e9aead89865734d137056f9fcb046b7756173b04c43"
+metafile = true

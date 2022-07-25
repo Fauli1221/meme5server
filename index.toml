@@ -27,27 +27,27 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "004dbebb72fb7b4afaa12797a18c0871b78da1cc930ee0a9e65a485a99d6232b"
+hash = "ac2207cfc96eabeec2650f09d9ef72d2597fc7438edc9cbdaf5fbb2ba43bfde2"
 metafile = true
 
 [[files]]
 file = "mods/edit-sign.toml"
-hash = "28260bf593ae9a685769d4691972105c0d14066aa61e0f10a4994b1eb47d2988"
+hash = "d1a885db4a4860abbb687ae6cbeb0453f9c48ee330d04e8cacca3496eabaf073"
 metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "a71a7aa0bf79ce499edd20becef3fc7144f84251dabf14f1cd172d916400784f"
+hash = "93bc4d84e26a7dc1111cf9254f676f8f303f096031ecc7644b46ca0d58695bff"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "e5e9cc3b753510f4243bc0fdef37595dffb283a38f9aa368bbba452aa53b811f"
+hash = "1c85df49ef6653679a899b14323d0abe11a99b121c2571f236704d98b4beab24"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "31b8ee3e8f34273e2989381dde65b8b13e128b6fed0c244f46af62bb47ac354f"
+hash = "91520be992ba24e8b7a4e5d5b9dc3f20ad2807d1c789f20eb0583c5fdfaa0401"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "dc1f47a526f2264dc215437a81668d54c084d5beaaa6cbf6e284b88a59af88b5"
+hash = "9bedd7ca66c806a5bc8bfefc04ac3a4665bccf3a6672e3a4ebd69dd752c5ee6f"
 metafile = true
 
 [[files]]
@@ -132,12 +132,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "186a02d4a40c0b715a1c20450ee00c14808c926f70ac063477896fb521df6984"
+hash = "09d3b9629b19742f8c63919536603675d1a9457a0a15d16f48a8b3d8413cb6ea"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "a6ad543780b4417ddeae78cb1ca9a337fab55262bc97c0f320d596dfd58fe080"
+hash = "e63228fdadc03ceaac771202e588fbf174bc0d47d5f20de863a5b8a5d233058a"
 metafile = true
 
 [[files]]
@@ -152,5 +152,5 @@ metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "2c626dca74e026ddf2292e9aead89865734d137056f9fcb046b7756173b04c43"
+hash = "9435698f904415f25c5da69bdda36652a720da9841eb74fbac40ce524727a3d7"
 metafile = true

@@ -22,17 +22,17 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "53fa3438ef9e1e81193f46c36cffa7c410a933de0b6793224e99bad67cbab2e3"
+hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
 metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "ac2207cfc96eabeec2650f09d9ef72d2597fc7438edc9cbdaf5fbb2ba43bfde2"
+hash = "58fd0c579e75880dde1ad661819a3a7c9cdb4cc6ea3c042a9b8ae996adb3b970"
 metafile = true
 
 [[files]]
 file = "mods/edit-sign.toml"
-hash = "c47d356d5698523370cb0fc54d9dfe73513cb1ecf358b234713033424db16dde"
+hash = "bb292b1f99b9aae5021dace7c472682e5633034888773c0cc0920a545d80d5be"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.toml"
-hash = "d478b1670b16ee3faf972fc5dcfeed8841470dca3b890c0d84560fa5ca3eafcc"
+hash = "b8636d5a45f93572c04a42c7b741c53a1325993a92bed6a2e2ccab70a07b2349"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
+hash = "2169e44e13300b75bed771b83724278bc10d319270096cc8c3953271bf68a2ae"
 metafile = true
 
 [[files]]
@@ -102,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "49f9b24d73adb01f1f1d1349af1549583d1f552a0e88f4885c2f456d6535c842"
+hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "0b25fb8f6efc68064ac94cdc7d04d134ef52a0474cdb386a1ba5e7e82c4a3c20"
+hash = "13c71598d788235d793bd8f488dbe636f1dc6952425c24285c2d188f7a1d024a"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "33b4e42405067fbbf2633e14299e3010bdc48b31f1fa777ff45e542b5cda4f27"
+hash = "2ae2a17a9a92f337fe58dddc9245f890f4fc55a0421bc9708890068a5be77489"
 metafile = true
 
 [[files]]
@@ -127,12 +127,12 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.toml"
-hash = "8e81543992fe3ce4dab725e2f32f877e0f28eb7c806c178958f5c472f59f1dd8"
+hash = "0d2580694a5821cd27dfe03940ade7d0ff556ba6c55d8e08321ab48a7e9ac26b"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "c005ed82fce8543188b2dac2c09996aa5292d44393c382d1284c59a0c3d1bf76"
+hash = "5b558821b095a29857b4763ca6fc28c5d543651f51bf8faef7a6edfd018426cf"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "c4e7710386c8e9a7adaebaf9b72f8eb6083cbd33c25286e0de74f7160abdcf5a"
+hash = "dc86642cf5ceaad9da9a0731938434d53ccf9ed60a607024c128ef200f0dbdb7"
 metafile = true
 
 [[files]]

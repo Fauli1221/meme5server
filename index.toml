@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "53fa3438ef9e1e81193f46c36cffa7c410a933de0b6793224e99bad67cbab2e3"
+hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "93bc4d84e26a7dc1111cf9254f676f8f303f096031ecc7644b46ca0d58695bff"
+hash = "3c1feaccae6b693c42e493bed9701a2dea456cb204a548ecb276863bc66c2d9f"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "9bedd7ca66c806a5bc8bfefc04ac3a4665bccf3a6672e3a4ebd69dd752c5ee6f"
+hash = "8fca044c06687f1e0f645ea179fa96a73abe84c7e4e4c982633868c150553732"
 metafile = true
 
 [[files]]
@@ -122,12 +122,12 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.toml"
-hash = "8e81543992fe3ce4dab725e2f32f877e0f28eb7c806c178958f5c472f59f1dd8"
+hash = "d6f39140fdd6827d6efb1d077aa2ed541a78dc49eee6cd23db86216792db4c72"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "09d3b9629b19742f8c63919536603675d1a9457a0a15d16f48a8b3d8413cb6ea"
+hash = "ee4273ed5f77adb3fb78e4dc86d662d32d2f17ea4cf157246ab8e27e7c440a27"
 metafile = true
 
 [[files]]

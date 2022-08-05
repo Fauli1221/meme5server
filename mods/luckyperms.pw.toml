@@ -1,8 +1,8 @@
 name = "LuckPerms"
-filename = "LuckPerms-Fabric-5.4.30.jar"
+filename = "LuckPerms-Fabric-5.4.40.jar"
 side = "server"
 
 [download]
-url = "https://download.luckperms.net/1438/fabric/LuckPerms-Fabric-5.4.30.jar"
+url = "https://download.luckperms.net/1448/fabric/LuckPerms-Fabric-5.4.40.jar"
 hash-format = "sha256"
-hash = "f1e7cd76d8c0c8a187ee9ec31336caec063d3b91424973ce34ef27036664926d"
+hash = "483d49c8a6caad00d188c6903a990d60da2ad46b3ebbc6c992ab976449ac8e0a"

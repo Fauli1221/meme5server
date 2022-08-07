@@ -1,13 +1,13 @@
 name = "Meme 5 Server"
 author = "Fauli1221"
-version = "0.1.0"
+version = "0.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6cfabcd9eb984f7e2850b9bed329a11a9468bd8c7ace8d51e52a96fd2944d6db"
+
 
 [versions]
-fabric = "0.14.7"
+fabric = "0.14.8"
 minecraft = "1.19"

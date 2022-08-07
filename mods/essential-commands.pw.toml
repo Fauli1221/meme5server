@@ -1,13 +1,13 @@
 name = "Essential Commands"
-filename = "essential_commands-0.24.1-mc1.19.jar"
+filename = "essential_commands-0.28.0-mc1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6VdDUivB/versions/0.24.1-mc1.19/essential_commands-0.24.1-mc1.19.jar"
+url = "https://cdn.modrinth.com/data/6VdDUivB/versions/0.28.0-mc1.19/essential_commands-0.28.0-mc1.19.jar"
 hash-format = "sha1"
-hash = "d167c0e603488606cc5eb2a28d9694cf4e720974"
+hash = "b3c4e05e5cde9d7df898e78d6f84db555000bd1b"
 
 [update]
 [update.modrinth]
 mod-id = "6VdDUivB"
-version = "metLgKVb"
+version = "i24McvCV"

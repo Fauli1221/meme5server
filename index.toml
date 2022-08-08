@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "58fd0c579e75880dde1ad661819a3a7c9cdb4cc6ea3c042a9b8ae996adb3b970"
+hash = "4d37e88a354d5b9bbe966212393840e15b9c9b87519bdbf8a14343197b983dab"
 metafile = true
 
 [[files]]
 file = "mods/edit-sign.toml"
-hash = "bb292b1f99b9aae5021dace7c472682e5633034888773c0cc0920a545d80d5be"
+hash = "2768c6483feae662db290aa357fea4d7ebe4b0fe068583f9ac904e787ca5a09e"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.toml"
-hash = "b8636d5a45f93572c04a42c7b741c53a1325993a92bed6a2e2ccab70a07b2349"
+hash = "8a48e51272da00e3d7018e2aa8ef12ab8a59e68c934ed2513681ab6c341d1b0d"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "2169e44e13300b75bed771b83724278bc10d319270096cc8c3953271bf68a2ae"
+hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "13c71598d788235d793bd8f488dbe636f1dc6952425c24285c2d188f7a1d024a"
+hash = "713a641a445bc48bbbed1283e11883d55c9b5a41b5387979655aa83dac099968"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "5b558821b095a29857b4763ca6fc28c5d543651f51bf8faef7a6edfd018426cf"
+hash = "a8283a991513e7e1318dad27506c6742d64032cb5ada290094d6985e842fd443"
 metafile = true
 
 [[files]]
@@ -152,5 +152,5 @@ metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "52b9573bd5e35962497df3f0e074403e91fd46de9a8c043b3f1158b7299838a8"
+hash = "6623e72df111d528d87a4406940d83ac8394fe646e2add770c1b48d168dab07d"
 metafile = true

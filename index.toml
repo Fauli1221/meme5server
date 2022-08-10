@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.toml"
-hash = "f1012d69ed26a4b8b576106f556a1cf3cbded61a3580118792d4ebe9f9264892"
+hash = "8fb3a2375531693a1fc0ac755bba4599e9c8331a399f51e1b1e1b9976109c22d"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "713a641a445bc48bbbed1283e11883d55c9b5a41b5387979655aa83dac099968"
+hash = "7f4661acedba1f64b7cbfe36f613400b2657e59ce921bee55ab25b247835c2ba"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "a8283a991513e7e1318dad27506c6742d64032cb5ada290094d6985e842fd443"
+hash = "8ebae60f03be19399c0d2c3df37b4a09daeeae7470599413f800cfea3b711b90"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "dc86642cf5ceaad9da9a0731938434d53ccf9ed60a607024c128ef200f0dbdb7"
+hash = "7f5f3133139ea271a6732bdd419167d38036ccdc9c97d1dff9f36f2e27279099"
 metafile = true
 
 [[files]]

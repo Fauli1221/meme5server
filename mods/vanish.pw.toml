@@ -1,13 +1,13 @@
 name = "Vanish"
-filename = "vanish-1.19.1-1.4.1.jar"
+filename = "vanish-1.19.1-1.4.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "686f829d19d47c95579fe0ec29a5250799239e80"
+hash = "53955cb20f4f6ab17fc5202a7a44e71d1b523c76"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3909250
+file-id = 3927060
 project-id = 424123

@@ -115,8 +115,8 @@ hash = "7f4661acedba1f64b7cbfe36f613400b2657e59ce921bee55ab25b247835c2ba"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.toml"
-hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
+file = "mods/not-enough-crashes.pw.toml"
+hash = "5c1ef0483605531321ef075aed82b527ba79e45c323e8bf99c93a7dfcd3f83f4"
 metafile = true
 
 [[files]]

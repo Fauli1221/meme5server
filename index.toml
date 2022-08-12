@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/LuckPerms-Fabric-5.4.41.jar"
+hash = "c891270387e6df7c27f9b296897d6d8a3947e7b02eae65011bb232f4d948dac2"
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "8fb3a2375531693a1fc0ac755bba4599e9c8331a399f51e1b1e1b9976109c22d"
 metafile = true

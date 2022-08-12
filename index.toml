@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.toml"
-hash = "f1012d69ed26a4b8b576106f556a1cf3cbded61a3580118792d4ebe9f9264892"
+hash = "8fb3a2375531693a1fc0ac755bba4599e9c8331a399f51e1b1e1b9976109c22d"
 metafile = true
 
 [[files]]
 file = "mods/big-pony.toml"
-hash = "5984256e04d57537e47be5cb6b6f7f57d02be1db0282d58c3365a765726b6b23"
+hash = "772e023a8b657034dff279a54e852adf8dca2a1498151020e55bca0a5791b31e"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "ee4273ed5f77adb3fb78e4dc86d662d32d2f17ea4cf157246ab8e27e7c440a27"
+hash = "b6af2dad3e06adaaf0750fbf40403b776cd2df8d67b383b8f7bbcbbbcbb46e7b"
 metafile = true
 
 [[files]]

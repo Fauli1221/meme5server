@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "a4c5b164755ba0f4f60712a7e28a4fd57531b4fa0d8e55789c12843710764094"
+hash = "b2c7760ec9eb9d497ea6405bdc6195b48405296f1d2ffa9ad0d96a3e592983ce"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.toml"
-hash = "8a48e51272da00e3d7018e2aa8ef12ab8a59e68c934ed2513681ab6c341d1b0d"
+hash = "ee7aa24a9eb8832ec181dfffd54c4c51419f4f5be69fa8a12bd16356b5d12813"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "7f5f3133139ea271a6732bdd419167d38036ccdc9c97d1dff9f36f2e27279099"
+hash = "deb753f242296c6af755cad9769796fbc6323d3e19e3b0c7070ba1d0a91f77a3"
 metafile = true
 
 [[files]]

@@ -155,11 +155,6 @@ hash = "deb753f242296c6af755cad9769796fbc6323d3e19e3b0c7070ba1d0a91f77a3"
 metafile = true
 
 [[files]]
-file = "mods/viafabric.pw.toml"
-hash = "286a17c13e07950e3a377ece2355cd783d6059045c96fba6f4fcdcde8e51d293"
-metafile = true
-
-[[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "6623e72df111d528d87a4406940d83ac8394fe646e2add770c1b48d168dab07d"
 metafile = true

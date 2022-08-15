@@ -120,8 +120,8 @@ hash = "5c1ef0483605531321ef075aed82b527ba79e45c323e8bf99c93a7dfcd3f83f4"
 metafile = true
 
 [[files]]
-file = "mods/right-click-harvest.pw.toml"
-hash = "f130a8a58184826e701d8e66d035dd47211f8b273e376b968333bf5afe405ab9"
+file = "mods/rightclickharvest.pw.toml"
+hash = "a907107e410169c6bca9375be491dc625d900700a6b38f5f1205fde5e0309e94"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "e63228fdadc03ceaac771202e588fbf174bc0d47d5f20de863a5b8a5d233058a"
+hash = "284044ae120f8884664ef32beb472ed7a0116fbabec1d33cd714593f1df7e160"
 metafile = true
 
 [[files]]

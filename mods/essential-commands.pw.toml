@@ -7,6 +7,7 @@ url = "https://cdn.modrinth.com/data/6VdDUivB/versions/0.28.1-mc1.19.2/essential
 hash-format = "sha1"
 hash = "aa97747182b7a2937ba53582d44be840a3a7f6b2"
 
+
 [update]
 [update.modrinth]
 mod-id = "6VdDUivB"

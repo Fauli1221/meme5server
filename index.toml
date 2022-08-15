@@ -41,7 +41,6 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "b2c7760ec9eb9d497ea6405bdc6195b48405296f1d2ffa9ad0d96a3e592983ce"
 metafile = true
 
 [[files]]
@@ -147,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/vanish.pw.toml"
 hash = "deb753f242296c6af755cad9769796fbc6323d3e19e3b0c7070ba1d0a91f77a3"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "286a17c13e07950e3a377ece2355cd783d6059045c96fba6f4fcdcde8e51d293"
 metafile = true
 
 [[files]]

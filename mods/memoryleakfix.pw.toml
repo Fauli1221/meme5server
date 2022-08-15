@@ -1,4 +1,5 @@
 name = "Memory Leak Fix"
+
 filename = "memoryleakfix-1.19.1-0.7.0.jar"
 side = "both"
 
@@ -11,3 +12,4 @@ hash = "9ef7b93df46b599f96d8c0dba32753373e5e8a1a"
 [update.modrinth]
 mod-id = "NRjRiSSD"
 version = "tlLtHh1w"
+

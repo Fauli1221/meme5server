@@ -80,6 +80,11 @@ hash = "7cfacba402f52a71096bda72ede806b9b6964c2c807019da76f4e27fa839c8a5"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "21c5ff2c70f953eaddf10d3ef09538d99da19c4cfe32aa251ef162b4d78c8160"
+metafile = true
+
+[[files]]
 file = "mods/krypton.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true

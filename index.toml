@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Geyser-Fabric.jar"
+hash = "b69bcc7cdca8942a191f9c102094169c0fc4c56a24971772e1a2762f12609a14"
+
+[[files]]
 file = "mods/LuckPerms-Fabric-5.4.41.jar"
 hash = "c891270387e6df7c27f9b296897d6d8a3947e7b02eae65011bb232f4d948dac2"
 
@@ -63,6 +67,10 @@ metafile = true
 file = "mods/ferrite-core.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
+
+[[files]]
+file = "mods/floodgate-fabric.jar"
+hash = "013a811795e889530aa9cb9b2a89bc23cb0375f48418eac78ca6ca9ef0f9027e"
 
 [[files]]
 file = "mods/golfiv.toml"

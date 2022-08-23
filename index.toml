@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "8710ff01be8545dc45b73520dd6c2ab771237be3be45ae36aa91a68a5b487524"
+hash = "677760a9666f6def6e36d25d76e74373128ff339b32d3752a91fa678d220724b"
 metafile = true
 
 [[files]]
@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "518ed22adb529e7273602bf0aa64118d987566a8df092d6d1a79a87397926a53"
+hash = "39cd67c3a2db03da10508144b40aa41310d2a81183b189bd8f7086f3f5b1d49d"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "7f4661acedba1f64b7cbfe36f613400b2657e59ce921bee55ab25b247835c2ba"
+hash = "bced73cfdaa0e28e92744b59d5ed2779a60a4b2ebd3bdb944b9cc4956da19814"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "a907107e410169c6bca9375be491dc625d900700a6b38f5f1205fde5e0309e94"
+hash = "5306d2e64e464ea85dad4f78dd760e858d2f24402bbac7c096334f18f5ff4253"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "cb5bcf6358b9521b380dc5bd84f3c432d889a1b99b458737b46035f5278c5ddc"
+hash = "bbe56a3e0f5cce0539e36f9854c2ef9423dcd522e69d4df389da006dbabbb294"
 metafile = true
 
 [[files]]

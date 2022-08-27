@@ -15,7 +15,7 @@ metafile = true
 
 [[files]]
 file = "mods/big-pony.toml"
-hash = "772e023a8b657034dff279a54e852adf8dca2a1498151020e55bca0a5791b31e"
+hash = "68e969b7c00545030bc94613674b5d6ac60457822a572345b6481f4b6a5bdb41"
 metafile = true
 
 [[files]]
@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "4d37e88a354d5b9bbe966212393840e15b9c9b87519bdbf8a14343197b983dab"
+hash = "ef417f3a2048870098bc65ef03a9617f60c4d90e1fd26b1cbb382f695ae530c5"
 metafile = true
 
 [[files]]
@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "91520be992ba24e8b7a4e5d5b9dc3f20ad2807d1c789f20eb0583c5fdfaa0401"
+hash = "4559f01f8da539982476e058019d8e9b7906f3d9b84f06652b9687cee648515f"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "bced73cfdaa0e28e92744b59d5ed2779a60a4b2ebd3bdb944b9cc4956da19814"
+hash = "68f33f291ece8fff8fe601841a7beb3b9b12348b3c3c1f1847cb4596a910b375"
 metafile = true
 
 [[files]]
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "bbe56a3e0f5cce0539e36f9854c2ef9423dcd522e69d4df389da006dbabbb294"
+hash = "cfc9035d990104f10cbd073ee9ff41236e1ffc370a2bd5ea3fd3b4bbb7e1d8bd"
 metafile = true
 
 [[files]]

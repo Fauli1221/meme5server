@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "7db65bc77910c1c7e2a9b195b61c7376d573940fd6c3c523c7ed48df1f8fe5b5"
+hash = "59da146d66e2948dfbd203684937dfb822711a228bd505332b5a979678bedbbc"
 metafile = true
 
 [[files]]
@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "049b71ecdbd76be84b4b2bd362aeb561e3d3c8b6415ec8726182631c3ef671e0"
+hash = "80366046a62a610cb3a5c3a8167caeea2e2857f7f19f363264d781c48eee57c6"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "ebc51dded184382bffbe4b7aeec50c2817f440851926d8fb2aac848ad369bedb"
+hash = "90bac3dfe0536bb6f01ef8101f5b2c882074306455b0492f471a89125a25191f"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "3b3f8dad7310746ff9a80092827faf48d284121c54399504be46c0da9d9ca508"
+hash = "fab2a06b136eb37c24269381681619d740da6dc3c0eae11e86c4431e18e83bb8"
 metafile = true
 
 [[files]]
@@ -161,5 +161,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "6f47fb033d1ad7ee12d34ee590974213595745b74100ff47a6d4d75a6f231bdc"
+hash = "f1b822298ccbb96ab43b054811b802080c3160db2168e7c795370779e8bc1b93"
 metafile = true

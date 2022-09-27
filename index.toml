@@ -24,6 +24,11 @@ hash = "c3e2416becf16f39d9116d3617f8bed97b87d2541b63256148e9b59ee969991b"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "8ad6410f3a7ae706ffbe605d1bb801b2d2c2a1be3889a0261c3ea33a6e234ccf"
+metafile = true
+
+[[files]]
 file = "mods/carpet.toml"
 hash = "4a7dc34ea75dda18719bdcee7fdb23a48c53142b57df960ffffbca652fc6b95a"
 metafile = true
@@ -113,6 +118,16 @@ hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "c038a6ea641541af0aee754c41df71ccb662245863cecb43d64c202baf561291"
+metafile = true
+
+[[files]]
+file = "mods/log-cleaner.pw.toml"
+hash = "65a25b591b2afa0767de3426a944495a52721d71a7328daa3639e60dd88a04eb"
+metafile = true
+
+[[files]]
 file = "mods/mambience.toml"
 hash = "655919b6f75cc94b66beb2054d8b1b1fc9a214566c85f6f2b694ddd79abfdba9"
 metafile = true
@@ -148,6 +163,11 @@ hash = "ee6b08c3017883ccea2741822d9247283f31516ea8b6ddf6b267922d9883aea1"
 metafile = true
 
 [[files]]
+file = "mods/slumber.pw.toml"
+hash = "b2c63236b7a11ad31f6b09aee3c3ad957543c2d0f7c78a079449df4991be9b8a"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "fab2a06b136eb37c24269381681619d740da6dc3c0eae11e86c4431e18e83bb8"
 metafile = true
@@ -160,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/vanish.pw.toml"
 hash = "deb753f242296c6af755cad9769796fbc6323d3e19e3b0c7070ba1d0a91f77a3"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "5290122207493b6350080792571bceb0038941ffe3a73779e4a78a60f5b9c113"
 metafile = true
 
 [[files]]

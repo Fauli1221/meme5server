@@ -2,6 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/Geyser-Fabric.jar"
+hash = "fddfd3a4c03355b54f0a5fc6175042dbe698a20b826e6cb8765ba901c006eed6"
+
+[[files]]
+file = "mods/LuckPerms-Fabric-5.4.46.jar"
+hash = "493484ecfdc49b89e81e4531a5cfcb2d8cad0c190c55ef7f7d5490c70b0dd150"
 
 [[files]]
 file = "mods/appleskin.toml"
@@ -32,6 +37,10 @@ metafile = true
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
+
+[[files]]
+file = "mods/debugify.toml"
+hash = "f777c0d688db06546e14ac9e936ad3273a0787f09d8e3be6b7e67defd548d91b"
 
 [[files]]
 file = "mods/edit-sign.toml"
@@ -128,6 +137,11 @@ hash = "9d30fc668400a213ff7aa66a6494fb59400085343f3c25fa6ddbf5525cbd1cf8"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "79c07176ce5ea6770965abd4fb76032f33462b809fa44dceaf1bee72cd83a3e4"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-crashes.pw.toml"
 hash = "5c1ef0483605531321ef075aed82b527ba79e45c323e8bf99c93a7dfcd3f83f4"
 metafile = true
@@ -138,6 +152,17 @@ hash = "5306d2e64e464ea85dad4f78dd760e858d2f24402bbac7c096334f18f5ff4253"
 metafile = true
 
 [[files]]
+file = "mods/servercore.toml"
+hash = "0d2580694a5821cd27dfe03940ade7d0ff556ba6c55d8e08321ab48a7e9ac26b"
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "f2b3982a8fc05685c42f22f8918f4f6fa8627bfdb958e4ad68311ca7d3864299"
+
+[[files]]
+file = "mods/slumber.pw.toml"
+hash = "b2c63236b7a11ad31f6b09aee3c3ad957543c2d0f7c78a079449df4991be9b8a"
+metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"

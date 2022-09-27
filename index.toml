@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/LuckPerms-Fabric-5.4.41.jar"
-hash = "c891270387e6df7c27f9b296897d6d8a3947e7b02eae65011bb232f4d948dac2"
+file = "mods/Geyser-Fabric.jar"
+hash = "fddfd3a4c03355b54f0a5fc6175042dbe698a20b826e6cb8765ba901c006eed6"
+
+[[files]]
+file = "mods/LuckPerms-Fabric-5.4.46.jar"
+hash = "493484ecfdc49b89e81e4531a5cfcb2d8cad0c190c55ef7f7d5490c70b0dd150"
 
 [[files]]
 file = "mods/appleskin.toml"
@@ -65,6 +69,10 @@ hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
 
 [[files]]
+file = "mods/floodgate-fabric.jar"
+hash = "013a811795e889530aa9cb9b2a89bc23cb0375f48418eac78ca6ca9ef0f9027e"
+
+[[files]]
 file = "mods/golfiv.toml"
 hash = "f989ddbc02b14382ece3a01bc9b97dcfc8062ef6bafb6c92344fe71f3a58e2e4"
 metafile = true
@@ -116,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "90bac3dfe0536bb6f01ef8101f5b2c882074306455b0492f471a89125a25191f"
+hash = "be824e3a7d43b57ec6931b195f1f526736dd20433df0d8ef37d830b8a61dec13"
 metafile = true
 
 [[files]]

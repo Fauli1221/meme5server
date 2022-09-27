@@ -156,6 +156,11 @@ file = "mods/servercore.toml"
 hash = "0d2580694a5821cd27dfe03940ade7d0ff556ba6c55d8e08321ab48a7e9ac26b"
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "ee6b08c3017883ccea2741822d9247283f31516ea8b6ddf6b267922d9883aea1"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.toml"
 hash = "f2b3982a8fc05685c42f22f8918f4f6fa8627bfdb958e4ad68311ca7d3864299"
 
